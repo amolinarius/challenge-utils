@@ -1,0 +1,16 @@
+[
+{
+  "modid": "challenge-utils",
+  "name": "Challenge Utils",
+  "description": "A utility mod for Hypixel Bedwars challenges",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["galaxymiller", "furiousfurie"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
