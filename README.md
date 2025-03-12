@@ -31,4 +31,4 @@ There are many more features planned for future. Stay tuned!
 
 ## 💬 Feedback & Support
 
-Got ideas for new features or need help? [Create an issue](issues/new)
+Got ideas for new features or need help? [Create an issue](../../issues/new)
